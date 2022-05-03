@@ -1,0 +1,104 @@
+{
+  "todos": [
+    {
+      "title": "Task 2",
+      "description": "New",
+      "date": "2022-04-05",
+      "tags": {
+        "official": false,
+        "personal": true,
+        "others": false
+      },
+      "subtasks": [
+        {
+          "id": "fcea7fd8-d65b-48c0-a4cc-7dcf58f23a6f",
+          "subtasktitle": "Learn Redux",
+          "subtaskstatus": true
+        }
+      ],
+      "status": "Done",
+      "id": 2
+    },
+    {
+      "title": "Task 3",
+      "description": "New task",
+      "date": "2022-04-14",
+      "tags": {
+        "official": true,
+        "personal": true,
+        "others": false
+      },
+      "subtasks": [
+        {
+          "id": "da4e2839-c9e4-4b06-a227-80674b64c3a6",
+          "subtasktitle": "Learn JS",
+          "subtaskstatus": true
+        }
+      ],
+      "status": "Inprogress",
+      "id": 3
+    },
+    {
+      "title": "Task 4",
+      "description": "New task 2",
+      "date": "2022-04-14",
+      "status": "Done",
+      "tags": {
+        "official": true,
+        "personal": false,
+        "others": false
+      },
+      "subtasks": [
+        {
+          "id": "da4e2839-c9e4-4b06-a227-80674b64c3a6",
+          "subtasktitle": "Learn JS",
+          "subtaskstatus": false
+        }
+      ],
+      "id": 4
+    },
+    {
+      "title": "Task 5",
+      "description": "complete assignment",
+      "date": "2022-04-28",
+      "status": "Inprogress",
+      "tags": {
+        "official": false,
+        "personal": true,
+        "others": false
+      },
+      "subtasks": [
+        {
+          "id": "91b2a4a9-78eb-4b1d-babd-1a2ad8aff3b0",
+          "subtasktitle": "Learn Html",
+          "subtaskstatus": false
+        },
+        {
+          "id": "1359596e-e5fc-4faf-b41e-69f816b5ba81",
+          "subtasktitle": "Learn CSS",
+          "subtaskstatus": false
+        }
+      ],
+      "id": 5
+    },
+    {
+      "title": "Task 6",
+      "description": "New task",
+      "date": "2022-05-11",
+      "status": "Todo",
+      "tags": {
+        "official": true,
+        "personal": true,
+        "others": true
+      },
+      "subtasks": [
+        {
+          "id": "79e16e54-fc87-4ef9-804b-a58eccd1d037",
+          "subtasktitle": "Learn Gaming",
+          "subtaskstatus": true
+        }
+      ],
+      "id": 6
+    }
+  ]
+}
